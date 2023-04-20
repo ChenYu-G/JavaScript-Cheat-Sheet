@@ -1,3 +1,5 @@
+collected from javascript.info, MDN, and react.dev
+
 # ***JavaScript Cheat Sheet***
 
 ## **Array**
